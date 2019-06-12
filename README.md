@@ -1,5 +1,6 @@
-# calculator
-GUI version of calculator in python
+
+from tkinter import *
+class Calculator:
 from tkinter import *
 class Calculator:
 
